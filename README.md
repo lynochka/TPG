@@ -21,7 +21,7 @@ First of all, you can just access [it](https://github.com/lynochka/TPG/blob/mast
 Second, if you want to play with it, but do not have ipython notebook installed on your computer, no worries.
 Simply
     load the notebook file (or "clone" 
-    $ git clone https://github.com/libgit2/libgit2
+    $ git clone https://github.com/lynochka/TPG
     if you are familiar with git),
     then open [the browser version](https://try.jupyter.org/) of [the Jupyter Project ](https://jupyter.org/)
     upload the notebook from your local computer,
