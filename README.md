@@ -32,9 +32,9 @@ git clone https://github.com/lynochka/TPG
 
 If you are familar with ipython-notebook, then you know what to do.
 
-# To reference:
+# How to reference?
 
-If you decide to use or reference the example please mention:
+If you decide to use parts of the code or reference the example please use:
 
 Author: Alina Astrakova
 Source: https://github.com/lynochka/TPG
