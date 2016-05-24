@@ -22,7 +22,7 @@ First of all, you can just access [the notebook file simpleExampleTPG.ipynb](htt
 Second, if you want to play with it, but do not have ipython notebook installed on your computer, no worries.
 Simply
 * load the notebook file (or if you are familiar with git, you could "clone" the repository to a local folder with
-```{r, engine='bash'}
+```sh
 git clone https://github.com/lynochka/TPG
 ```
 * then open [the browser version](https://try.jupyter.org/) of [the Jupyter Project ](https://jupyter.org/)
