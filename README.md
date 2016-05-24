@@ -32,7 +32,7 @@ git clone https://github.com/lynochka/TPG
 
 If you are familar with ipython-notebook, then you know what to do.
 
-# Refence
+# To reference:
 
 If you decide to use or reference the example please mention:
 
