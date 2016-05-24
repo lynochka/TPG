@@ -17,9 +17,11 @@ I believe that the implementation and the figures are useful to get familiar wit
 
 # What to do with it?
 
-First of all, you can just access [the notebook file simpleExampleTPG.ipynb](https://github.com/lynochka/TPG/blob/master/simpleExampleTPG.ipynb) and look at the comments, figure and code.
+## First, 
+you can just access [the notebook file simpleExampleTPG.ipynb](https://github.com/lynochka/TPG/blob/master/simpleExampleTPG.ipynb) and look at the comments, figure and code.
 
-Second, if you want to play with it, but do not have ipython notebook installed on your computer, no worries.
+## Second, 
+if you want to play with it, but do not have ipython notebook installed on your computer, no worries.
 Simply
 * load the notebook file (or if you are familiar with git, you could "clone" the repository to a local folder with
 ```sh
@@ -30,7 +32,8 @@ git clone https://github.com/lynochka/TPG
 * choose `Cell` -> `Run All`,
 * or run and change notebook cells one-by-one (`Ctrl` + `Enter`) as you like.
 
-If you are familar with ipython-notebook, then you know what to do.
+## Third,
+if you are familar with ipython-notebook, then you know what to do.
 
 # How to reference?
 
